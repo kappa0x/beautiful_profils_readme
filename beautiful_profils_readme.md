@@ -6,6 +6,10 @@ Je mettrai régulièrement à jour cette liste afin que tu puisses toujours voir
 
 N’hésite pas à suivre mon tutoriel pour apprendre comment créer une page de profil README efficace et attrayante.
 
+<div align="center">
+  <a href="https://blog.waterlo-agency.com/comment-personnaliser-et-optimiser-sa-page-de-profil-sur-github">Lien vers le tutoriel</a>
+</div>
+
 ### Profils par catégorie 👤🗂
 
 ---
