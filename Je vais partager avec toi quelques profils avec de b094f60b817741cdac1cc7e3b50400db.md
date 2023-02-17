@@ -67,7 +67,10 @@ N’hésite pas à suivre mon tutoriel pour apprendre comment créer une page de
 
 ---
 
-![Untitled.png](Je%20vais%20partager%20avec%20toi%20quelques%20profils%20avec%20de%20b094f60b817741cdac1cc7e3b50400db/Untitled.png)
+
+<div style="text-align:right;">
+  <img src="Je%20vais%20partager%20avec%20toi%20quelques%20profils%20avec%20de%20b094f60b817741cdac1cc7e3b50400db/Untitled.png" width="70%" />
+</div>
 
 - **Profils avec des Snippets**
     - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
@@ -80,7 +83,9 @@ N’hésite pas à suivre mon tutoriel pour apprendre comment créer une page de
 
 ---
 
-![b843677a2b55ecb8d8b40c0d5da97dac (1).png](Je%20vais%20partager%20avec%20toi%20quelques%20profils%20avec%20de%20b094f60b817741cdac1cc7e3b50400db/b843677a2b55ecb8d8b40c0d5da97dac_(1).png)
+<div style="text-align:right;">
+  <img src="Je%20vais%20partager%20avec%20toi%20quelques%20profils%20avec%20de%20b094f60b817741cdac1cc7e3b50400db/b843677a2b55ecb8d8b40c0d5da97dac_(1).png" width="70%" />
+</div>
 
 - **Profils avec activité sur les autres médias**
     - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
@@ -101,7 +106,9 @@ N’hésite pas à suivre mon tutoriel pour apprendre comment créer une page de
 
 ---
 
-![e6acfd4b329524ab114a0f2f3ff99224.png](Je%20vais%20partager%20avec%20toi%20quelques%20profils%20avec%20de%20b094f60b817741cdac1cc7e3b50400db/e6acfd4b329524ab114a0f2f3ff99224.png)
+<div style="text-align:right;">
+  <img src="Je%20vais%20partager%20avec%20toi%20quelques%20profils%20avec%20de%20b094f60b817741cdac1cc7e3b50400db/e6acfd4b329524ab114a0f2f3ff99224.png" width="70%" />
+</div>
 
 - **Profils Mix avec un peu de tout**
     - [Raymond Li](https://github.com/Raymo111/Raymo111)
